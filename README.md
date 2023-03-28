@@ -1,0 +1,2 @@
+# gitdemo
+monday lecture: git
