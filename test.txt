@@ -5,3 +5,6 @@ new-item test.txt = create file in powershell
 
 # steps
 untracked file -- add -- commit -- push
+git commit --help
+
+add something new
